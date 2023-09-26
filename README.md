@@ -17,7 +17,7 @@ Here are some of the technologies and tools I've been working with:
 
 ## 💬 Contact
 
-Feel free to reach out to me via atkutmusharraf@gmail.com  I'm always open to interesting discussions and collaborations.
+Feel free to reach out to me via satkutmusharraf@gmail.com  I'm always open to interesting discussions and collaborations.
 
 Thanks for visiting my GitHub profile! 😊
 
