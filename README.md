@@ -3,17 +3,17 @@
 
 ## 🚀 About Me
 - 🎓 Currently pursuing  masters in Computer Application from Mumbai University.
-- 💼 Currently exploring opportunities as a Java Developer.
-- 🌱 I’m constantly learning and improving my skills in Java , MySql .
+- 💼 Currently exploring opportunities as a Java Developer and MERN full stack developer.
+- 🌱 I’m constantly learning and improving my skills in Java , MERN Full stack .
 - 😄 Pronouns: He/Him 
 
 ## 🛠️ Tech Stack
 
 Here are some of the technologies and tools I've been working with:
 
-- **Languages**: Java , C++ , Javascript
+- **Languages**: Java , Javascript
 - **Web Development**: HTML5 CSS React
-- **Databases**: MySql , oracle
+- **Databases**: MySql , MongoDB
 
 ## 💬 Contact
 
